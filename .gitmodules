@@ -1,0 +1,3 @@
+[submodule "SEAPI"]
+	path = SEAPI
+	url = https://github.com/AWegnerGitHub/SEAPI.git

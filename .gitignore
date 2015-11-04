@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+user_settings.py
+*.log
+*.json
+*.idea/
